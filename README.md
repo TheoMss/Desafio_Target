@@ -3,6 +3,7 @@ Desafio de programação para vaga de estagiário na Target. Feito em Python.
 
 Os códigos do desafio foram feitos em sistema de menu para centralizar. As resposta aparecem logo antes do "próximo menu". 
 A utilização é feita pelo pompt de comando. 
+
 Para alegrar seu dia: https://www.youtube.com/watch?v=G7cY4BZyz9E
 
 
